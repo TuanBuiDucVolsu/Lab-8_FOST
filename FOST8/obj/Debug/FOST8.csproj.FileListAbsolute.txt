@@ -1,0 +1,30 @@
+C:\Users\alexa\source\repos\FOST8\FOST8\bin\Debug\FOST8.exe.config
+C:\Users\alexa\source\repos\FOST8\FOST8\bin\Debug\FOST8.exe
+C:\Users\alexa\source\repos\FOST8\FOST8\bin\Debug\FOST8.pdb
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.Form1.resources
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.Properties.Resources.resources
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.exe
+C:\Users\alexa\source\repos\FOST8\FOST8\obj\Debug\FOST8.pdb
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\bin\Debug\FOST8.exe.config
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\bin\Debug\FOST8.exe
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\bin\Debug\FOST8.pdb
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.Form1.resources
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.exe
+C:\Users\User\Desktop\Учеба\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.pdb
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\bin\Debug\FOST8.exe.config
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\bin\Debug\FOST8.exe
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\bin\Debug\FOST8.pdb
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.csprojAssemblyReference.cache
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.Form1.resources
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.Properties.Resources.resources
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.csproj.GenerateResource.cache
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.csproj.CoreCompileInputs.cache
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.exe
+C:\Users\Donet\Downloads\(3 семестр) ФОСТ - лабы\Лаба 8\FOST8\obj\Debug\FOST8.pdb
